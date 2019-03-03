@@ -1,37 +1,28 @@
-## Welcome to TIBG Official Website
+## Welcome to UptownFank Official Website
 
-You can use the [editor on GitHub](https://github.com/TibgIBG/tibg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In UptownFank, you can find everything you need to properly track your project.
+  * There will be boards, lists, cards etc.
+  * There will be also two types of users: privileged and standard. As a privileged user, you will have access to *even more* features, such as creating & deleting boards, adding & removing other users to cards etc.
+  * You have some cool teams? Then you can be assigned to as many different teams as you want. Teams will have their own boards and you will be able to track multiple projects without any issues!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So, what are you waiting for? Join [UptownFank]() now!
 
-### Markdown
+### Team Members
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you are wondering what FANK stands for ... Well here is our own team:
+  * [Fatbardh](https://github.com/fatbardhfeta)
+  * [Alemdar](https://github.com/LiemPei)
+  * [Naisila](https://github.com/NaisilaPuka)
+  * [Kunduz](https://github.com/efronova)
 
-```markdown
-Syntax highlighted code block
+### Reports
 
-# Header 1
-## Header 2
-### Header 3
+[Proposal]()
 
-- Bulleted
-- List
+[Design Report]()
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TibgIBG/tibg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Final Report]()
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For anything you may need, just click on our names and find us on GitHub.
