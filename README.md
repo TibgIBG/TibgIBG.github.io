@@ -17,7 +17,7 @@ If you are wondering what FANK stands for ... Well here is our own team:
 
 ### Reports
 
-[Proposal]()
+[Proposal](https://github.com/UptownFank/UptownFank.github.io/blob/master/reports/UptownFANK_CS353_Proposal.pdf)
 
 [Design Report]()
 
