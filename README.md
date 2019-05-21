@@ -5,7 +5,7 @@ In UptownFank, you can find everything you need to properly track your project.
   * There will be also two types of users: privileged and standard. As a privileged user, you will have access to *even more* features, such as creating & deleting boards, adding & removing other users to cards etc.
   * You have some cool teams? Then you can be assigned to as many different teams as you want. Teams will have their own boards and you will be able to track multiple projects without any issues!
 
-So, what are you waiting for? Join [UptownFank]() now!
+So, what are you waiting for? [Join UptownFank now!](http://dijkstra.cs.bilkent.edu.tr/~naisila.puka/UptownFANK/code/)
 
 ### Team Members
 
