@@ -12,7 +12,7 @@ So, what are you waiting for? [Join UptownFank now!](http://dijkstra.cs.bilkent.
 If you are wondering what FANK stands for ... Well here is our own team:
   * [Fatbardh](https://github.com/fatbardhfeta)
   * [Alemdar](https://github.com/LiemPei)
-  * [Naisila](https://github.com/NaisilaPuka)
+  * [Naisila](https://github.com/naisila)
   * [Kunduz](https://github.com/efronova)
 
 ### Reports
